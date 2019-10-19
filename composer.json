@@ -1,0 +1,14 @@
+{
+    "name": "matrix/matrix",
+    "description": "Matrix Framwork",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladimir,",
+            "email": "devs.n9@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^3.6"
+    }
+}
